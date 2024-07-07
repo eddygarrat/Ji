@@ -23,6 +23,47 @@ params:
       url: "https://twitter.com/yourusername"
 name: GitHub Pages
 
+profileMode:
+    enabled: true # needs to be explicitly set
+    title: Jishu
+    subtitle: "Hello there!"
+    extrainfo: "I am Jishnu,No designation yet ,
+In my free time, I like to listen to music, and write"
+    extraextrainfo: "I'm up f"
+    imageUrl: me.jpeg
+    imageWidth: 200
+    imageHeight: 200
+    imageTitle: its a me !
+
+
+menu:
+  main:
+    - identifier: home
+      name: Home
+      url: ""
+      weight: 1
+    - identifier: academics
+      name: Academics
+      url: /academics/
+      weight: 5
+    - identifier: projects
+      name: Projects
+      url: /projects/
+      weight: 10
+    #- identifier: archives
+    #  name: Archives
+    #  url: /archives/
+    #  weight: 15
+    - identifier: mylogs
+      name: My Logs
+      url: /mylogs/
+      weight: 15
+   
+    #- identifier: tags
+    #  name: Tags
+    #  url: /tags/
+    #  weight: 25
+
 on:
   push:
     branches:
