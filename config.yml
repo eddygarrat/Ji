@@ -1,7 +1,9 @@
 baseURL: "https://eddygarrat.github.io/Ji/"
+baseURL: "https://example.com/"
 languageCode: "en-us"
-title: "Jishnu's Site"
-theme: "PaperMod"
+title: "My Hugo Site"
+theme: "hugo-PaperMod"
+
 paginate: 5
 
 params:
