@@ -1,7 +1,6 @@
 baseURL: "https://eddygarrat.github.io/Ji/"
-baseURL: "https://example.com/"
 languageCode: "en-us"
-title: "My Hugo Site"
+title: "JiShu"
 theme: "hugo-PaperMod"
 
 paginate: 5
@@ -15,7 +14,7 @@ params:
     enabled: true
     title: "Jishnu"
     subtitle: "Welcome to my site!"
-    extrainfo: "I am Jishnu, a computational astrophysics student."
+    extrainfo: "I am Jishnu, and I try to explore"
 
   socialIcons:
     - name: github
