@@ -13,7 +13,7 @@ params:
     title: "Jishnu"
     subtitle: "Welcome to my site!"
     extrainfo: "I am Jishnu, and I try to explore"
-    imageUrl: me.png
+    imageUrl: /me.png
     imageWidth: 200
     imageHeight: 200
 
@@ -24,17 +24,7 @@ params:
       url: "https://twitter.com/yourusername"
 name: GitHub Pages
 
-profileMode:
-    enabled: true # needs to be explicitly set
-    title: Jishu
-    subtitle: "Hello there!"
-    extrainfo: "I am Jishnu,No designation yet ,
-In my free time, I like to listen to music, and write"
-    extraextrainfo: "I'm up f"
-    imageUrl: me.jpg
-    imageWidth: 200
-    imageHeight: 200
-    imageTitle: its a me !
+
 
 
 menu:
