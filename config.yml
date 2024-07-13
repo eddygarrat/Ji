@@ -1,7 +1,7 @@
 baseURL: "https://eddygarrat.github.io/Ji/"
 languageCode: "en-us"
 title: "JiShu"
-theme: "PaperMod"
+theme: "hugo-PaperMod"
 
 paginate: 5
 
