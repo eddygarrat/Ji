@@ -15,6 +15,9 @@ params:
     title: "Jishnu"
     subtitle: "Welcome to my site!"
     extrainfo: "I am Jishnu, and I try to explore"
+    imageUrl: me.png
+    imageWidth: 200
+    imageHeight: 200
 
   socialIcons:
     - name: github
