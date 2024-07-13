@@ -9,7 +9,6 @@ params:
   ShowBreadCrumbs: false
   
   profileMode:
-    
     enabled: true
     title: "Jishnu"
     subtitle: "Welcome to my site!"
