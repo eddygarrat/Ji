@@ -13,6 +13,7 @@ params:
     title: "Jishnu"
     subtitle: "Welcome to my site!"
     extrainfo: "I am Jishnu, Blah Blah"
+    extraextrainfo:"More Blah blah
     imageUrl: me.jpeg
     imageWidth: 200
     imageHeight: 200
