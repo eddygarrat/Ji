@@ -9,7 +9,7 @@ This section, is mess of things I tried apart from other stuffs Here is a sectio
 - [https://medium.com/@jsrsreekrishnapuram](https://medium.com/@jsrsreekrishnapuram)
 
 ## Gallery
-(//suprabhath.jpg)
+![w](/suprabhath.jpg)
 *good mornin*
 
 
