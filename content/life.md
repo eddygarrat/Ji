@@ -1,5 +1,5 @@
 ---
-title: Life hacks
+title: Life 
 url: /life/
 summary:life
 ---
