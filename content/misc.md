@@ -7,10 +7,6 @@ This section, is mess of things I tried apart from other stuffs
 Here is a section dedicated depressed writing 
    -
 ## Gallery
-![whisker](/gallery/whisker.jpeg)
+![whisker](/gallery/DSC_0028.jpg)
 
-![eye](/gallery/eye.jpeg)
 
-![brigadeiro](/gallery/brigadeiro.jpeg)
-
-![fractal](/gallery/fractal.jpg)
