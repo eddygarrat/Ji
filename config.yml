@@ -50,7 +50,7 @@ menu:
       name: My Logs
       url: /mylogs/
       weight: 15
-   - identifier: Life
+    - identifier: Life
       name: Life
       url: /life/
       weight: 25
