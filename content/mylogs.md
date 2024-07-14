@@ -9,9 +9,8 @@ This section, is mess of things I tried apart from other stuffs Here is a sectio
 - [https://medium.com/@jsrsreekrishnapuram](https://medium.com/@jsrsreekrishnapuram)
 
 ## Gallery
-![gm](/static/gallery/suprabhath.jpg)
+(//suprabhath.jpg)
 *good mornin*
 
-![gmm](/static/gallery/suprabhath.jpeg)
 
 
