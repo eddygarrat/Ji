@@ -1,6 +1,6 @@
-title: "Misc"
-url: "/misc/"
-summary: misc
+title: "My Logs"
+url: "/mylogs/"
+summary: mylogs
 ---
 
 This section, is mess of things I tried apart from other stuffs
