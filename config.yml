@@ -51,7 +51,7 @@ menu:
       url: /mylogs/
       weight: 15
    
-    - identifier: Life hacks
+    - identifier: Life
       name: Life
       url: /life/
       weight: 25
