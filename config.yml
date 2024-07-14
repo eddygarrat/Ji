@@ -51,9 +51,9 @@ menu:
       url: /mylogs/
       weight: 15
    
-    #- identifier: tags
-    #  name: Tags
-    #  url: /tags/
+    - identifier: Life hacks
+      name: Life
+    #  url: /life/
     #  weight: 25
 
 on:
