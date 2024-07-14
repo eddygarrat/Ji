@@ -9,6 +9,6 @@ This section, is mess of things I tried apart from other stuffs
 Here is a section dedicated depressed writing 
    -https://medium.com/@jsrsreekrishnapuram
 ## Gallery
-![gm](/gallery/suprabhath.jpg)
+![gm](/gallery/suprabhath.jpeg)
 
 
