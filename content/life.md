@@ -1,6 +1,6 @@
 ---
 title: Life hacks
-url:/life/
+url: /life/
 summary:life
 ---
 
