@@ -3,6 +3,3 @@
 	url = https://github.com/adityatelange/hugo-PaperMod.git
 
 
-[submodule "Ji"]
-    path = Ji
-    url = https://github.com/eddygarrat/Ji.git
