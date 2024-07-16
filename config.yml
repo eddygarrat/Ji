@@ -55,44 +55,6 @@ menu:
       url: /life/
       weight: 25
 
-on:
-  push:
-    branches:
-      - main  # Set this to your default branch
 
-jobs:
-  build-deploy:
-    runs-on: ubuntu-latest
-
-    steps:
-    - name: Checkout
-      uses: actions/checkout@v3
-      with:
-        submodules: true  # Fetch Hugo themes (submodules)
-        fetch-depth: 0    # Fetch all history for .GitInfo and proper deploy
-
-    - name: Setup Hugo
-      uses: peaceiris/actions-hugo@v2
-      with:
-        hugo-version: '0.115.1'
-
-    - name: Build
-      run: hugo --gc --minify --baseURL "https://eddygarrat.github.io/JimShu/"
-
-    - name: Setup SSH
-      uses: webfactory/ssh-agent@v0.5.3
-      with:
-        ssh-private-key: ${{ secrets.DEPLOY_KEY }}
-
-    - name: Deploy
-      run: |
-        git config --global user.name "github-actions[bot]"
-        git config --global user.email "github-actions[bot]@users.noreply.github.com"
-        git add .
-        git commit -m "Deploy to GitHub Pages"
-        git push origin gh-pages
-      env:
-        GIT_SSH_COMMAND: "ssh -o StrictHostKeyChecking=no"
-
-        
+ 
 
